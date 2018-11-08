@@ -1,0 +1,13 @@
+# A province can only belong to one area!
+
+#Sea Areas:
+#No restriction on size.
+
+land_area = {
+    
+}
+
+sea_area = {
+    
+}
+

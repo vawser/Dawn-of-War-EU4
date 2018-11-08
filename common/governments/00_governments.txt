@@ -1,0 +1,18 @@
+debug_government = {
+    basic_reform = debug_government_mechanic
+    
+    color = { 86 125 188 }
+    
+	reform_levels = {
+		government_form = {
+            reforms = {
+                debug_government_reform
+            }
+        }
+	}
+
+	legacy_government = {
+        debug_government_reform_legacy
+	}
+}
+
