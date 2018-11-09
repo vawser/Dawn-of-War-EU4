@@ -25,3 +25,11 @@ debug_religion_group = {
     }
 }
 
+empty_group = {
+	defender_of_faith = no
+
+	empty = {
+		color = { 255 255 255 }
+		icon = 1
+    }
+}

@@ -1,6 +1,4 @@
 # A province can only belong to one region!
-
-# random_new_world_region is used for RNW. Must be first in this list.
 random_new_world_region = {
 }
 
@@ -10,8 +8,13 @@ land_region = {
     }
 }
 
-sea_region = {
+east_hidden_region = {
     areas = {
-        sea_area
+        east_hidden_area
+    }
+}
+west_hidden_region = {
+    areas = {
+        west_hidden_area
     }
 }

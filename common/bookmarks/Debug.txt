@@ -1,8 +1,0 @@
-bookmark =
-{
-	name = "BOOKMARK_NAME"
-	desc = "BOOKMARK_DESC"
-	date = 1492.1.1
-	
-	country = DBG
-}

@@ -16,6 +16,10 @@ technology = {
 	infantry_shock 		= 	0.20	
 	cavalry_shock  		= 	0.8	
 	land_morale 		= 	2.0
+    
+    enable = debug_infantry		
+	enable = debug_cavalry
+	enable = debug_artillery
 }
 
 technology = {
@@ -24,10 +28,7 @@ technology = {
 	
 	infantry_shock		= 	0.1
 	infantry_fire 		= 	0.1
-	
-	enable = debug_infantry		
-	enable = debug_cavalry
-	enable = debug_artillery
+    
 }
 
 technology = {

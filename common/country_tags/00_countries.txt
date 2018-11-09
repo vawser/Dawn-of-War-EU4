@@ -1,6 +1,103 @@
-# Special countries..
+#--------------------
+# Core
+#--------------------
 REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
 DBG = "countries/DBG - Debug.txt"
+
+# Religion, Government, Technology Group/Unit Type
+
+#--------------------
+# Imperium
+#--------------------
+# Imperial Guard    (Imperial Cult, Imperial Guard Regiment, Imperial Guard)
+
+# Marines:
+# Black Templars    (Imperial Cult, Imperial Chapter, Black Templars)
+# Blood Angels      (Imperial Cult, Imperial Chapter, Blood Angels)
+# Dark Angels       (Imperial Cult, Imperial Chapter, Dark Angels)
+# Grey Knights      (Imperial Cult, Imperial Chapter, Grey Knights)
+# Imperial Fists    (Imperial Cult, Imperial Chapter, Imperial Fists)
+# Iron Hands        (Imperial Cult, Imperial Chapter, Iron Hands)
+# Space Wolves      (Imperial Cult, Imperial Chapter, Space Wolves)
+# Ultramarines      (Imperial Cult, Imperial Chapter, Ultramarines)
+# Deathwatch        (Imperial Cult, Imperial Chapter, Deathwatch)
+# Raven Guard       (Imperial Cult, Imperial Chapter, Raven Guard)
+# Salamanders       (Imperial Cult, Imperial Chapter, Salamanders)
+# White Scars       (Imperial Cult, Imperial Chapter, White Scars)
+
+# Sisters:
+# Order of the Ebon Shroud  (Imperial Cult, Imperial Order, Sisters of Battle)
+# Order of the Burning Oath (Imperial Cult, Imperial Order, Sisters of Battle)
+
+#--------------------
+# Chaos
+#--------------------
+# Marines:
+# Black Legion          (Chaos Undivided, Chaos Chapter, Black Legion)
+# World Eaters          (Khorne, Chaos Chapter, World Eaters)
+# Thousand Sons         (Tzeentch, Chaos Chapter, Thousand Sons)
+# Death Guard           (Nurgle, Chaos Chapter, Death Guard)
+# Emperor's Children    (Slannesh, Chaos Chapter, Emperor's Children)
+# Word Bearers          (Chaos Undivided, Chaos Chapter, Word Bearers)
+# Iron Warriors         (Chaos Undivided, Chaos Chapter, Iron Warriors)
+# Alpha Legion          (Chaos Undivided, Chaos Chapter, Alpha Legion)
+# Night Lords           (Chaos Undivided, Chaos Chapter, Night Lords)
+
+# Daemons:
+# Infernal Horde        (Daemon, Daemon Cult, Daemon)
+# Soulmaw               (Daemon, Daemon Cult, Daemon)
+
+# Cults:
+# Blood Brotherhood     (Khorne, Chaos Cult, Khorne Cultist)
+# Jagged Oath           (Khorne, Chaos Cult, Khorne Cultist)
+# Ghol Voluptara        (Tzeentch, Chaos Cult, Tzeentch Cultist)
+# Lost Spiral           (Tzeentch, Chaos Cult, Tzeentch Cultist)
+# Givers of Life        (Nurgle, Chaos Cult, Nurgle Cultist)
+# Cult Tenebrous        (Nurgle, Chaos Cult, Nurgle Cultist)
+# Pleasureseekers       (Slaanesh, Chaos Cult, Slannesh Cultist)
+# Bliss Cult            (Slaanesh, Chaos Cult, Slannesh Cultist)
+
+#--------------------
+# Dark Eldar
+#--------------------
+# Kabal of the Black Heart      (Hedonism, Kabal, Dark Eldar)
+# Kabal of the Falling Moon     (Hedonism, Kabal, Dark Eldar)
+# The Ebon Sting                (Hedonism, Haemonculi Coven, Dark Eldar)
+# Cult of Grief                 (Hedonism, Wych Cult, Dark Eldar)
+
+#--------------------
+# Eldar
+#--------------------
+# Alaitoc   (Eldar Pantheon, Aspect, Eldar)
+# Biel-tan  (Eldar Pantheon, Aspect, Eldar)
+# Saim-Hann (Eldar Pantheon, Aspect, Eldar)
+# Ulthwé    (Eldar Pantheon, Aspect, Eldar)
+
+#--------------------
+# Necrons
+#--------------------
+# Necrons   (C'tan, Tomb, Necron)
+
+#--------------------
+# Orks
+#--------------------
+# Bad Moons     (Gork and Mork, Clan, Ork)
+# Blood Axes    (Gork and Mork, Clan, Ork)
+# Deathskulls   (Gork and Mork, Clan, Ork)
+# Evil Sunz     (Gork and Mork, Clan, Ork)
+# Goffs         (Gork and Mork, Clan, Ork)
+# Snakebites    (Gork and Mork, Clan, Ork)
+
+#--------------------
+# Tau
+#--------------------
+# Kor'tai Cadre (Greater Good, Cadre, Tau)
+
+#--------------------
+# Tyranids
+#--------------------
+# Kraken            (Hive Mind, Hive Fleet, Tyranid)
+# Cult of Ixalan    (Hive Mind, Genestealer Cult, Genestealer)

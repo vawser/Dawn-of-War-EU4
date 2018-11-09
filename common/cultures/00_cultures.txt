@@ -26,3 +26,19 @@ debug_culture_group = {
 		}
 	}
 }
+
+barren_group = {
+    graphical_culture = westerngfx
+
+	barren = {
+		male_names = {
+			John
+		}
+		female_names = {
+			Mary
+		}
+		dynasty_names = {
+			"Smith"
+		}
+	}
+}

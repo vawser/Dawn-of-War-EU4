@@ -19,7 +19,6 @@ technology = { #Early Ships
     enable = debug_light_ship
     enable = debug_galley
     enable = debug_heavy_ship
-
 }
 
 technology = { #Merchants & Trade
