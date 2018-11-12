@@ -1,0 +1,13 @@
+font = 
+{
+	type 		= "Windows";
+	name 		= "trebuchet MS";
+	file		= "trebucbd.ttf";
+
+	bold		= true;
+
+	sizeDefault 	= 14;
+
+	spaceChar	= " ";
+	missingChar	= "?";
+}

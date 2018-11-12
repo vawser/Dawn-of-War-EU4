@@ -1,0 +1,12 @@
+font = 
+{
+	type 		= "Windows";
+	name 		= "GillSans_18a";
+
+	sizeDefault = 16;
+	sizeLock	= 1;
+
+	spaceChar	= " ";
+	missingChar	= "?";
+
+}

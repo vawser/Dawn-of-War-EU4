@@ -1,0 +1,11 @@
+font = 
+{
+	type 		= "Windows";
+	name 		= "Impact";
+	file		= "impact.ttf";
+
+	sizeDefault 	= 19;
+
+	spaceChar	= " ";
+	missingChar	= "?";
+}
