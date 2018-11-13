@@ -1,5 +1,5 @@
-debug_age = {
-	start = 1
+conquest_of_ixalan = {
+	start = 128
 	
 	can_start = {
 		always = yes

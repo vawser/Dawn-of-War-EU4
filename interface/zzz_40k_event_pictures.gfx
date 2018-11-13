@@ -1,0 +1,7 @@
+spriteTypes = {	
+    # spriteType = {
+		# name = "BLOODLUST_eventPicture"
+		# texturefile = "gfx/event_pictures/event_pictures_WARCRAFT/BLOODLUST_eventPicture.dds"
+		# allwaystransparent = yes
+	# }
+}

@@ -2,8 +2,52 @@
 # If adding new technology, make sure they are uniquely named.
 
 groups = {
-	debug_tech_group = {
-		start_level = 0
+	imperial_guard_tech = {
+		start_level = 1
+		start_cost_modifier = 0
+	}
+    space_marine_tech = {
+		start_level = 1
+		start_cost_modifier = 0
+	}
+    sisters_of_battle_tech = {
+		start_level = 1
+		start_cost_modifier = 0
+	}
+    chaos_marine_tech = {
+		start_level = 1
+		start_cost_modifier = 0
+	}
+    daemon_tech = {
+		start_level = 1
+		start_cost_modifier = 0
+	}
+    chaos_cultist_tech = {
+		start_level = 1
+		start_cost_modifier = 0
+	}
+    dark_eldar_tech = {
+		start_level = 1
+		start_cost_modifier = 0
+	}
+    eldar_tech = {
+		start_level = 1
+		start_cost_modifier = 0
+	}
+    necron_tech = {
+		start_level = 1
+		start_cost_modifier = 0
+	}
+    ork_tech = {
+		start_level = 1
+		start_cost_modifier = 0
+	}
+    tau_tech = {
+		start_level = 1
+		start_cost_modifier = 0
+	}
+    tyranid_tech = {
+		start_level = 1
 		start_cost_modifier = 0
 	}
 }
