@@ -1,5 +1,5 @@
 
-unit_type = debug_tech_group
+unit_type = imperial_guard_tech
 type = cavalry
 
 maneuver = 2

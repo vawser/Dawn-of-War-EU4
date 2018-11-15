@@ -1,0 +1,134 @@
+# Imperial Guard
+Command:
+- Company Command Squad
+- Platoon Command Squad
+- Scion Command Squad
+- Tank Commander
+- Regimental Advisors
+- Commissar
+- Primaris Psyker
+- Tech-priest Engiseer
+- Priest
+
+Troops:
+- Infantry Squad
+- Heavy Weapons Squad
+- Special Weapons Squad
+- Armoured Fist Squad
+- Veteran Squad
+- Scions Squad
+- Penal Legion Troopers
+- Ogryn Squad
+- Ratling Squad
+- Psyker Battle Squad
+- Rough Riders Squad
+
+Vehicles:
+- Bike
+- Centaur
+- Cyclops Demolition Vehicle
+- Sentinel
+- Siegfried
+- Tauros
+- Chimera
+- Chimerax
+- Chimedon
+- Chimerro
+- Destroyer
+- Thunderer
+- Hellhound
+- Bane Wolf
+- Devil Dog
+- Leman Russ Battle Tank
+- Leman Russ Annihilator
+- Leman Russ Conqueror
+- Leman Russ Demolisher
+- Leman Russ Eradicator
+- Leman Russ Executioner
+- Leman Russ Exterminator
+- Leman Russ Vanquisher
+- Leman Russ Incinerator
+- Salamander command
+- Salamander Scout
+- Taurox
+- Taurox Prime
+- Dracosan
+- Aurox
+- Carnodon
+- Testudo
+
+Heavy Vehicles:
+- Crassus
+- Gorgon
+- Macharius Vanquisher
+- Macharius Vulcan
+- Macharius Omega
+- Malcador
+- Malcador Annihilator
+- Malcador Defender
+- Malcador Infernus
+- Ragnarok
+- Valdor
+
+Super Heavy Vehicles:
+- Baneblade
+- Banehammer
+- Banesword
+- Capital Imperialis
+- Doomhammer
+- Hellhammer
+- Leviathan
+- Shadowsword
+- Stormblade
+- Stormhammer
+- Stormlord
+- Stormsword
+
+Artillery:
+- Basilisk
+- Colossus Bombard
+- Deathstrike Missile Launcher
+- Dominus
+- Griffon
+- Hydra Flak Tank
+- Manticore
+- Medusa
+- Minotaur
+- Praetor Armoured Assault Launcher
+- Wyvern Suppression Tank
+
+Support Artillery:
+- Earthshaker
+- Heavy Mortar
+- Heavy Quad-Launcher
+- Hydra
+- Manticore
+- Medusa Siege gun
+- Rapier
+- Sabre Gun Platform
+- Tarantula Sentry Gun
+
+Support:
+- Atlas
+- Bruennhilde
+- Hades Breaching Drill
+- Hellbore
+- Land Crawler
+- Mole
+- Samaritan
+- Sentinel Powerlifter
+- Trojan
+- Termite
+
+Guardsmen
+- Medics
+- Standard Bearer
+- Vox-Operator
+- Weapons Specialists
+- Hardened Veterans
+- Heavy Gunner
+- Penal Conscripts
+- Stormtroopers
+- Sharpshooter
+- Scouts
+

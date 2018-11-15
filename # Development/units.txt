@@ -1,0 +1,348 @@
+#------------------
+# Imperial Guard
+#------------------
+# Infantry:
+- Penal Legion Squad
+- Infantry Squad
+- Ratling Squad
+
+- Veteran Squad
+- Rough Rider Squad
+- Heavy Weapons Squad
+
+- Ogryn Squad
+- Psyker Battle Squad
+- Stormtrooper Squad
+
+# Assault:
+- Bike Squad
+- Tauros
+- Sentinel
+
+- Hellhound
+- Bane Wolf
+- Devil Dog
+
+- Leman Russ Conqueror
+- Leman Russ Annihilator
+- Leman Russ Exterminator
+
+# Ordnance:
+- Griffon
+- Deathstrike
+- Macharius
+
+- Basilisk
+- Manticore
+- Baneblade
+
+- Medusa
+- Praetor
+- Doomhammer
+
+#------------------
+# Space Marines
+#------------------
+# Infantry:
+- Scout Squad
+- Tactical Squad
+
+- Assault Squad
+- Devastator Squad
+
+- Terminator Squad
+- Centurion Squad
+
+# Assault:
+- Bike Squad
+- Dreadnought
+
+- Land Speeder
+- Hellfire Dreadnought
+
+- Venerable Dreadnought
+- Predator
+
+# Ordnance:
+- Whirlwind
+
+- Vindicator
+
+- Land Raider
+
+#------------------
+# Sisters of Battle
+#------------------
+# Infantry:
+- Battle Sister Squad
+- Dominion Squad
+
+- Repentia Squad
+- Seraphim Squad
+
+- Celestian Squad
+- Retributor Squad
+
+# Assault:
+- Penitent Engine
+
+- Repressor
+
+- Immolator
+
+# Ordnance:
+- Exorcist
+
+- Vindicator
+
+- Land Raider
+
+#------------------
+# Chaos Marines
+#------------------
+# Infantry:
+- Chaos Space Marines
+- Chaos Spawn
+- Khorne Berzerkers (Khorne)
+- Plague Marines (Nurgle)
+- Noise Marines (Slaanesh)
+- Rubric Marines (Tzeentch)
+
+- Chaos Havoc Squad
+- Possessed Squad
+- Mutilator Squad
+
+- Chosen Squad
+- Chaos Terminator Squad
+- Obliterator Squad
+
+# Assault:
+- Biker Squad
+- Raptor Squad
+- Warp Talon Squad
+- Defiler
+- Brass Scorpion (Khorne)
+- Blight Drone (Nurgle)
+- Doom Wing (Tzeentch)
+
+- Helbrute
+- Predator
+- Decimator
+- Sonic Dreadnought (Slaanesh)
+- Berserker Dreadnought (Khorne)
+- Fire Lord (Tzeentch)
+- Myphitic Blight-Hauler (Nurgle)
+
+- Maulerfiend
+- Forgefiend
+- Land Raider
+- Blood Slaughterer (Khorne)
+- Plague Hulk (Nurgle)
+- Silver Tower of Tzeentch (Tzeentch)
+- Slaanesh Subjugator (Slaanesh)
+
+# Ordnance:
+- Vindicator
+
+- Fellblade
+- Lord of Skulls (Khorne)
+- Plaguereaper (Nurgle)
+
+- Typhon
+
+#------------------
+# Daemon
+#------------------
+# Infantry:
+- Flesh Hound (Khorne)
+- Nurgling (Nurgle)
+- Fiend (Slaanesh)
+- Screamer (Tzeentch)
+
+- Bloodletter (Khorne)
+- Plaguebearer (Nurgle)
+- Daemonette (Slaanesh)
+- Pink Horror (Tzeentch)
+
+- Bloodthirster (Khorne)
+- Great Unclean One (Nurgle)
+- Keeper of Secrets (Slaanesh)
+- Lord of Change (Tzeentch)
+
+# Assault:
+- Defiler
+- Brass Scorpion (Khorne)
+- Blight Drone (Nurgle)
+- Doom Wing (Tzeentch)
+
+- Sonic Dreadnought (Slaanesh)
+- Berserker Dreadnought (Khorne)
+- Fire Lord (Tzeentch)
+- Myphitic Blight-Hauler (Nurgle)
+
+- Maulerfiend
+- Forgefiend
+- Blood Slaughterer (Khorne)
+- Plague Hulk (Nurgle)
+- Silver Tower of Tzeentch (Tzeentch)
+- Slaanesh Subjugator (Slaanesh)
+
+# Ordnance:
+- Vindicator
+
+- Fellblade
+- Lord of Skulls (Khorne)
+- Plaguereaper (Nurgle)
+
+- Typhon
+
+#------------------
+# Chaos Cultists
+#------------------
+# Infantry:
+- Traitor Guard Squad
+- Mutant Squad
+- Beastman Squad
+- Psyker Squad
+
+# Assault:
+- Biker Squad
+- Defiler
+- Brass Scorpion (Khorne)
+- Blight Drone (Nurgle)
+- Doom Wing (Tzeentch)
+
+- Helbrute
+- Predator
+- Decimator
+- Sonic Dreadnought (Slaanesh)
+- Berserker Dreadnought (Khorne)
+- Fire Lord (Tzeentch)
+- Myphitic Blight-Hauler (Nurgle)
+
+- Maulerfiend
+- Forgefiend
+- Land Raider
+- Blood Slaughterer (Khorne)
+- Plague Hulk (Nurgle)
+- Silver Tower of Tzeentch (Tzeentch)
+- Slaanesh Subjugator (Slaanesh)
+
+# Ordnance:
+- Vindicator
+
+- Fellblade
+- Lord of Skulls (Khorne)
+- Plaguereaper (Nurgle)
+
+- Typhon
+
+#------------------
+# Dark Eldar
+#------------------
+# Infantry:
+- Kabalite Warriors
+- Wyches
+- Wracks
+
+- Beastmasters
+- Mandrakes
+
+- Grotesques
+- Incubus
+
+# Assault:
+- Hellion
+- Venom
+
+- Cronos Parasite Engine
+- Talos Pain Engine
+
+# Ordnance:
+- Raider
+
+- Ravager
+
+#------------------
+# Eldar
+#------------------
+# Infantry:
+- Guardians
+- Rangers
+
+- Dire Avengers
+- Fire Dragons
+- Howling Banshees
+- Striking Scorpions
+- Swooping Hawks
+- Dark Reapers
+- Warp Spiders
+
+- Shadow Spectres
+
+# Assault:
+- Windrider Squadron
+- Shining Spears
+- Crimson Hunters
+
+- Wraithguard
+
+- Wraithblades
+
+# Ordnance:
+- Grav Platform
+
+- Support Battery
+
+- Avatar
+
+#------------------
+# Necrons
+#------------------
+# Infantry:
+- Necron Warriors
+- Flayed Ones
+
+- Necron Pariahs
+- Necron Immortals
+
+# Assault:
+- Necron Scarabs
+- Necron Wraiths
+
+- Necron Destroyers
+
+# Ordnance:
+- Necron Spyder
+
+- Necron Heavy Destroyers
+
+- Monolith
+
+#------------------
+# Orks
+#------------------
+# Infantry:
+
+# Assault:
+
+# Ordnance:
+
+#------------------
+# Tau
+#------------------
+# Infantry:
+
+# Assault:
+
+# Ordnance:
+
+#------------------
+# Tyranids
+#------------------
+# Infantry:
+
+# Assault:
+
+# Ordnance:
+

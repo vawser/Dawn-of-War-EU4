@@ -2,12 +2,12 @@
  #-------------------------------
  # Areas
  #-------------------------------
+ hidden_area: "Hidden"
  
  #-------------------------------
  # Regions
  #-------------------------------
- east_hidden_region: ""
- west_hidden_region: ""
+ hidden_region: "Hidden"
  
  #-------------------------------
  # Superregions
@@ -17,4 +17,4 @@
  # Continents
  #-------------------------------
  ixalan: "Ixalan"
- 
+ hidden_continent: "Hidden"

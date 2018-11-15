@@ -1,0 +1,75 @@
+# Space Marines:
+Command:
+- Chaos Lord
+- Exalted Champion
+- Sorcerer Lord
+- Daemon Prince
+
+Specialists:
+- Sorcerer
+- Warpsmith
+- Dark Apostle
+
+Troops:
+- Chaos Space marines
+- Havocs
+- Chosen
+- Chaos Terminators
+- Possessed
+- Khorne Berzerkers
+- Plague Marines
+- Noise Marines
+- Rubric Marines
+- Obliterators
+- Mutilators
+- Culstists
+- Chaos Spawn
+- Fallen
+
+Fast Attack:
+- Bikers
+- Raptors
+- Warp Talons
+- Chaos Dreadnought
+- Helbrute
+- Contemptor Dreadnought
+- Sonic Dreadnought
+- Berserker Dreadnought
+- Leviathan Dreadnought
+
+Vehicles:
+- Chaos Rhino
+- Chaos Predator
+- Chaos Vindicator
+- Chaos Land Raider
+- Death Wheel
+- Fellblade
+- Typhon Heavy Siege Tank
+
+Daemon Engines:
+- Decimator
+- Deflier
+- Blight Drone
+- Blood Reaper
+- Blood Slaughterer
+- Brass Scorpion
+- Cauldron of Blood
+- Contagion
+- Death Dealer
+- Doom Blaster
+- Doom Wing
+- Fire Lord
+- Foetid Bloat-Drone
+- Forgefiend
+- Kytan
+- Lord of Battles
+- Lord of Skulls
+- Maulerfiend
+- Plague Hulk
+- Plaguereaper
+- Myphitic Blight-Hauler
+- Plague Tower
+- Plagueburst Crawler
+- Silver Tower
+- Subjugator
+- Tower of Skulls

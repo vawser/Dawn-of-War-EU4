@@ -4,7 +4,10 @@
 
 imperial_cult_group = {
 	defender_of_faith = no
-
+    
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 1 41 }
+    
 	imperial_cult = {
 		color = { 255 255 255 }
 		icon = 1
@@ -14,6 +17,9 @@ imperial_cult_group = {
 chaos_group = {
 	defender_of_faith = no
 
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 42 61 }
+    
 	chaos_undivided = {
 		color = { 255 255 255 }
 		icon = 2
@@ -39,6 +45,9 @@ chaos_group = {
 hedonism_group = {
 	defender_of_faith = no
 
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 101 102 }
+    
 	hedonism = {
 		color = { 255 255 255 }
 		icon = 7
@@ -48,6 +57,9 @@ hedonism_group = {
 eldar_pantheon_group = {
 	defender_of_faith = no
 
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 62 79 }
+    
 	eldar_pantheon = {
 		color = { 255 255 255 }
 		icon = 8
@@ -57,6 +69,9 @@ eldar_pantheon_group = {
 ctan_group = {
 	defender_of_faith = no
 
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 100 100 }
+    
 	ctan = {
 		color = { 255 255 255 }
 		icon = 9
@@ -66,6 +81,9 @@ ctan_group = {
 gork_and_mork_group = {
 	defender_of_faith = no
 
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 80 97 }
+    
 	gork_and_mork = {
 		color = { 255 255 255 }
 		icon = 10
@@ -75,6 +93,9 @@ gork_and_mork_group = {
 greater_good_group = {
 	defender_of_faith = no
 
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 103 103 }
+    
 	greater_good = {
 		color = { 255 255 255 }
 		icon = 11
@@ -84,6 +105,9 @@ greater_good_group = {
 hive_mind_group = {
 	defender_of_faith = no
 
+    flags_with_emblem_percentage = 33
+	flag_emblem_index_range = { 98 99 }
+    
 	hive_mind = {
 		color = { 255 255 255 }
 		icon = 12

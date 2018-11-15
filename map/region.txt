@@ -8,13 +8,8 @@ land_region = {
     }
 }
 
-east_hidden_region = {
+hidden_region = {
     areas = {
-        east_hidden_area
-    }
-}
-west_hidden_region = {
-    areas = {
-        west_hidden_area
+        hidden_area
     }
 }

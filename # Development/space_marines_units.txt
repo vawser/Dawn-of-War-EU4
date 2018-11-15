@@ -1,0 +1,53 @@
+# Space Marines:
+Command:
+- Company Command Squad
+- Reclusiam Command Squad
+- Captain
+- Lieutenant
+- Company Ancient
+- Company Champion
+
+Specialists:
+- Librarian
+- Chaplain
+- Apothecary
+- Techmarine
+
+Elites:
+- Veteran
+- Terminator Squad
+
+Troops:
+- Tactical Squad
+- Intercessor Squad
+- Scout Squad
+
+Fast Attack:
+- Assault Squad
+- Inceptor Squad
+- Reiver Squad
+
+Heavy Support:
+- Aggressor Squad
+- Devastator Squad
+- Hellblaster Squad
+- Centurion Devastator Squad
+- Centurion Assault Squad
+
+Vehicles:
+- Drop Pod
+- Razorback
+- Rhino
+- Dreadnought
+- Hellfire Dreadnought
+- Venerable Dreadnought
+- Attack Bike
+- Bike
+- Scout Bike
+- Land Speeder
+- Land Raider
+- Predator
+- Stalker
+- Vindicator
+- Whirlwind
+- Hunter

@@ -5,8 +5,6 @@ REB = "countries/Rebels.txt"
 PIR = "countries/Pirates.txt"
 NAT = "countries/Natives.txt"
 
-DBG = "countries/DBG - Debug.txt"
-
 # Religion, Government, Technology Group/Unit Type
 
 #--------------------
