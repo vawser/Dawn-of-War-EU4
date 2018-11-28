@@ -6,4 +6,4 @@ add_government_reform = chaos_cult_reform
 religion = nurgle
 primary_culture = givers_of_life
 
-# capital = 1
+capital = 1

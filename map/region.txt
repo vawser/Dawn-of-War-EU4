@@ -8,8 +8,3 @@ land_region = {
     }
 }
 
-hidden_region = {
-    areas = {
-        hidden_area
-    }
-}

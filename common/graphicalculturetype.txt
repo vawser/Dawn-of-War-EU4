@@ -1,4 +1,3 @@
-westerngfx
 imperial_guard_gfx
 space_marine_gfx
 sisters_of_battle_gfx

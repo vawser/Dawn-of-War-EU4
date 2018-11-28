@@ -4,14 +4,14 @@ spriteTypes = {
     #-------------------------
     spriteType = {
         name = "GFX_advisor_noAdvisorType"
-        texturefile = "gfx//advisors//blank.dds"
+        texturefile = "gfx//interface//advisors//blank.dds"
         noOfFrames = 1
         effectFile = "gfx/FX/buttonstate.lua"
         loadType = "INGAME"
     }
     spriteType = {
         name = "GFX_advisor_noAdvisorType_female"
-        texturefile = "gfx//advisors//blank.dds"
+        texturefile = "gfx//interface//advisors//blank.dds"
         noOfFrames = 1
         norefcount = yes
         effectFile = "gfx/FX/buttonstate.lua"
@@ -23,7 +23,7 @@ spriteTypes = {
     #-------------------------
     # spriteType = {
         # name = "GFX_advisor_artist"
-        # texturefile = "gfx//advisors//blank_filled.dds"
+        # texturefile = "gfx//interface//advisors//blank_filled.dds"
         # noOfFrames = 1
         # norefcount = yes
         # effectFile = "gfx/FX/buttonstate.lua"

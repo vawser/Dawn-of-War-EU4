@@ -6,4 +6,4 @@ add_government_reform = chaos_cult_reform
 religion = tzeentch
 primary_culture = lost_spiral
 
-# capital = 1
+capital = 1

@@ -6,4 +6,4 @@ add_government_reform = wych_cult_reform
 religion = hedonism
 primary_culture = cult_of_grief
 
-# capital = 1
+capital = 1

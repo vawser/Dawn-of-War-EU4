@@ -9,10 +9,6 @@
 categories =  {
 	pti = {
 		type = pti
-        
-        terrain_override = {
-            3257
-        }
 	}
 
 	ocean = {

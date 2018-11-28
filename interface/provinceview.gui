@@ -5491,7 +5491,537 @@ guiTypes = {
 		verticalBorder= ""
 		fullscreen = no
 
-		
+        # x: 52
+        
+        #---------------------------------
+        # Trade
+        #---------------------------------
+		iconType = {
+			name = "trade_banner"
+			position = { x = 4 y = 0 }
+			spriteType = "GFX_banner_left_3"
+		}
+
+		instantTextBoxType={
+			name = "title_trade"
+			position = {x = 44 y = 9 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 120
+			maxHeight = 18
+			text = "Trade Sector"
+		}
+        
+        checkboxType = {
+			name = "build_trade_sector_1"
+			position = { x = 9 y = 32 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx"
+		}
+
+		instantTextBoxType={
+			name = "trade_sector_1_cost"
+			position = {x = 9 y = 82 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_trade_sector_2"
+			position = { x = 61 y = 32 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "trade_sector_2_cost"
+			position = {x = 61 y = 82 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_trade_sector_3"
+			position = { x = 113 y = 32 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "trade_sector_3_cost"
+			position = {x = 113 y = 82 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_trade_sector_4"
+			position = { x = 165 y = 32 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "trade_sector_4_cost"
+			position = {x = 165 y = 82 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_trade_sector_5"
+			position = { x = 217 y = 32 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "trade_sector_5_cost"
+			position = {x = 217 y = 82 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        #---------------------------------
+        # Manufacturing
+        #---------------------------------
+        iconType = {
+			name = "manufacturing_banner"
+			position = { x = 4 y = 97 }
+			spriteType = "GFX_banner_left_4"
+		}
+
+		instantTextBoxType={
+			name = "title_manufacturing"
+			position = {x = 44 y = 106 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 160
+			maxHeight = 18
+			text = "Manufacturing Sector"
+		}
+        
+        checkboxType = {
+			name = "build_manufacturing_sector_1"
+			position = { x = 9 y = 129 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx"
+		}
+
+		instantTextBoxType={
+			name = "manufacturing_sector_1_cost"
+			position = {x = 9 y = 179 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_manufacturing_sector_2"
+			position = { x = 61 y = 129 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "manufacturing_sector_2_cost"
+			position = {x = 61 y = 179 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_manufacturing_sector_3"
+			position = { x = 113 y = 129 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "manufacturing_sector_3_cost"
+			position = {x = 113 y = 179 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_manufacturing_sector_4"
+			position = { x = 165 y = 129 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "manufacturing_sector_4_cost"
+			position = {x = 165 y = 179 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_manufacturing_sector_5"
+			position = { x = 217 y = 129 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "manufacturing_sector_5_cost"
+			position = {x = 217 y = 179 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        #---------------------------------
+        # Residential
+        #---------------------------------
+        iconType = {
+			name = "residential_banner"
+			position = { x = 4 y = 194 }
+			spriteType = "GFX_banner_left_4"
+		}
+
+		instantTextBoxType={
+			name = "title_residential"
+			position = {x = 44 y = 203 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 160
+			maxHeight = 18
+			text = "Residential Sector"
+		}
+        
+        checkboxType = {
+			name = "build_residential_sector_1"
+			position = { x = 9 y = 226 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx"
+		}
+
+		instantTextBoxType={
+			name = "residential_sector_1_cost"
+			position = {x = 9 y = 276 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_residential_sector_2"
+			position = { x = 61 y = 226 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "residential_sector_2_cost"
+			position = {x = 61 y = 276 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_residential_sector_3"
+			position = { x = 113 y = 226 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "residential_sector_3_cost"
+			position = {x = 113 y = 276 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_residential_sector_4"
+			position = { x = 165 y = 226 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "residential_sector_4_cost"
+			position = {x = 165 y = 276 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_residential_sector_5"
+			position = { x = 217 y = 226 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "residential_sector_5_cost"
+			position = {x = 217 y = 276 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        #---------------------------------
+        # Military
+        #---------------------------------
+        iconType = {
+			name = "military_banner"
+			position = { x = 4 y = 291 }
+			spriteType = "GFX_banner_left_4"
+		}
+
+		instantTextBoxType={
+			name = "title_military"
+			position = {x = 44 y = 300 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 160
+			maxHeight = 18
+			text = "Military Sector"
+		}
+        
+        checkboxType = {
+			name = "build_military_sector_1"
+			position = { x = 9 y = 323 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx"
+		}
+
+		instantTextBoxType={
+			name = "military_sector_1_cost"
+			position = {x = 9 y = 373 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_military_sector_2"
+			position = { x = 61 y = 323 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "military_sector_2_cost"
+			position = {x = 61 y = 373 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_military_sector_3"
+			position = { x = 113 y = 323 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "military_sector_3_cost"
+			position = {x = 113 y = 373 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_military_sector_4"
+			position = { x = 165 y = 323 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "military_sector_4_cost"
+			position = {x = 165 y = 373 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_military_sector_5"
+			position = { x = 217 y = 323 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "military_sector_5_cost"
+			position = {x = 217 y = 373 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        #---------------------------------
+        # Fortification
+        #---------------------------------
+        iconType = {
+			name = "fortification_banner"
+			position = { x = 4 y = 388 }
+			spriteType = "GFX_banner_left_4"
+		}
+
+		instantTextBoxType={
+			name = "title_fortification"
+			position = {x = 44 y = 397 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 160
+			maxHeight = 18
+			text = "Fortification"
+		}
+        
+        checkboxType = {
+			name = "build_fortification_sector_1"
+			position = { x = 9 y = 420 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx"
+		}
+
+		instantTextBoxType={
+			name = "fortification_sector_1_cost"
+			position = {x = 9 y = 470 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_fortification_sector_2"
+			position = { x = 61 y = 420 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "fortification_sector_2_cost"
+			position = {x = 61 y = 470 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_fortification_sector_3"
+			position = { x = 113 y = 420 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "fortification_sector_3_cost"
+			position = {x = 113 y = 470 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_fortification_sector_4"
+			position = { x = 165 y = 420 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "fortification_sector_4_cost"
+			position = {x = 165 y = 470 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        checkboxType = {
+			name = "build_fortification_sector_5"
+			position = { x = 217 y = 420 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx" 
+		}
+
+		instantTextBoxType={
+			name = "fortification_sector_5_cost"
+			position = {x = 217 y = 470 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
+        
+        #---------------------------------
+        # Factories
+        #---------------------------------
+        iconType = {
+			name = "factory_banner"
+			position = { x = 4 y = 488 }
+			spriteType = "GFX_banner_left_4"
+		}
+
+		instantTextBoxType={
+			name = "title_factory"
+			position = {x = 44 y = 497 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 160
+			maxHeight = 18
+			text = "Factories"
+		}
+        
+        checkboxType = {
+			name = "build_manufactory"
+			position = { x = 9 y = 520 }
+			quadTextureSprite = "GFX_courthouse_muslimgfx"
+		}
+
+		instantTextBoxType={
+			name = "manufactory_cost"
+			position = {x = 9 y = 570 }
+			font = "vic_18"
+			borderSize = {x = 0 y = 0}
+			maxWidth = 128
+			maxHeight = 18
+			text = "2000¤"
+		}
 	}
 
 	windowType =

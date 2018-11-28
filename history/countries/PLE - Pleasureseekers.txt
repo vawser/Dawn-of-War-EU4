@@ -6,4 +6,4 @@ add_government_reform = chaos_cult_reform
 religion = slaanesh
 primary_culture = pleasureseekers
 
-# capital = 1
+capital = 1

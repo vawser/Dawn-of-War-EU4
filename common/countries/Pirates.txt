@@ -1,6 +1,6 @@
 #Pirates
 
-graphical_culture = westerngfx
+graphical_culture = imperial_guard_gfx
 
 color = { 10  10  10 }
 

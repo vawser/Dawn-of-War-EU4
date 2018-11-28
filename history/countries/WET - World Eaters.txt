@@ -6,4 +6,4 @@ add_government_reform = traitor_legion_reform
 religion = khorne
 primary_culture = world_eaters
 
-# capital = 1
+capital = 1

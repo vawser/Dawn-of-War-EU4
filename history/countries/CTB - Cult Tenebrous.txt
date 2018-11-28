@@ -6,4 +6,4 @@ add_government_reform = chaos_cult_reform
 religion = nurgle
 primary_culture = cult_tenebrous
 
-# capital = 1
+capital = 1

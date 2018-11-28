@@ -6,4 +6,4 @@ add_government_reform = orders_militant_reform
 religion = imperial_cult
 primary_culture = order_of_the_burning_oath
 
-# capital = 1
+capital = 1

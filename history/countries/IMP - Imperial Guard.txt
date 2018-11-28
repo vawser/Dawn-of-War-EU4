@@ -6,4 +6,4 @@ add_government_reform = astra_militarum_reform
 religion = imperial_cult
 primary_culture = imperial_guard
 
-# capital = 1
+capital = 1

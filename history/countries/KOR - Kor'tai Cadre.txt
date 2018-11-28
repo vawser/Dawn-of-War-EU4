@@ -6,4 +6,4 @@ add_government_reform = tau_contingent_reform
 religion = greater_good
 primary_culture = kor_tai
 
-# capital = 1
+capital = 1

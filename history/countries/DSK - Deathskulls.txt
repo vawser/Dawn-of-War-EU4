@@ -6,4 +6,4 @@ add_government_reform = ork_clan_reform
 religion = gork_and_mork
 primary_culture = deathskulls
 
-# capital = 1
+capital = 1

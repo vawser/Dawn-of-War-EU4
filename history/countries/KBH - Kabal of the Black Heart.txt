@@ -6,4 +6,4 @@ add_government_reform = kabal_reform
 religion = hedonism
 primary_culture = kabal_of_the_black_heart
 
-# capital = 1
+capital = 1

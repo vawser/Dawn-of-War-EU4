@@ -6,4 +6,4 @@ add_government_reform = space_marine_chapter_reform
 religion = imperial_cult
 primary_culture = ultramarines
 
-# capital = 1
+capital = 1

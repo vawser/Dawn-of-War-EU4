@@ -1,6 +1,6 @@
-native_size = 6
-native_ferocity = 4
-native_hostileness = 5
+native_size = 4
+native_ferocity = 8
+native_hostileness = 1
 is_city = no
 
 base_tax = 4

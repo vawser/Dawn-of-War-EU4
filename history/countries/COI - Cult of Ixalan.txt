@@ -6,4 +6,4 @@ add_government_reform = genestealer_cult_reform
 religion = hive_mind
 primary_culture = genestealer
 
-# capital = 1
+capital = 1

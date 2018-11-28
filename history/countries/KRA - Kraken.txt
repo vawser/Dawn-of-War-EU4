@@ -6,4 +6,4 @@ add_government_reform = hive_fleet_reform
 religion = hive_mind
 primary_culture = kraken
 
-# capital = 1
+capital = 1

@@ -1,7 +1,7 @@
 #-----------------------------------
 # ADM
 #-----------------------------------
-adm_advisor = {
+adm_advisor_dark_eldar = {
 	monarch_power = ADM
 	
 
@@ -13,7 +13,7 @@ adm_advisor = {
         modifier = {
             factor = 0
             
-            NOT = { is_dark_eldar = yes }
+            owner = { NOT = { is_dark_eldar = yes } }
         }
 	}
 	
@@ -25,7 +25,7 @@ adm_advisor = {
 #-----------------------------------
 # DIP
 #-----------------------------------
-dip_advisor = {
+dip_advisor_dark_eldar = {
 	monarch_power = DIP
 	
 
@@ -37,7 +37,7 @@ dip_advisor = {
         modifier = {
             factor = 0
             
-            NOT = { is_dark_eldar = yes }
+            owner = { NOT = { is_dark_eldar = yes } }
         }
 	}
 	
@@ -49,7 +49,7 @@ dip_advisor = {
 #-----------------------------------
 # MIL
 #-----------------------------------
-mil_advisor = {
+mil_advisor_dark_eldar = {
 	monarch_power = MIL
 	
 
@@ -61,7 +61,7 @@ mil_advisor = {
         modifier = {
             factor = 0
             
-            NOT = { is_dark_eldar = yes }
+            owner = { NOT = { is_dark_eldar = yes } }
         }
 	}
 	

@@ -6,4 +6,4 @@ add_government_reform = tomb_world_reform
 religion = ctan
 primary_culture = necron
 
-# capital = 1
+capital = 1
