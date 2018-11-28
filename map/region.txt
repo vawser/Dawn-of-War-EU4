@@ -8,3 +8,8 @@ land_region = {
     }
 }
 
+sea_region = {
+    areas = {
+        sea_area
+    }
+}
