@@ -19,7 +19,7 @@ expansionist_country = {
 	state_maintenance_modifier = -0.25
 }
 
-army_enthusiasm = {	
+army_enthusiasm = {
 	manpower_recovery_speed = 0.1
 	army_tradition = 1
 }
@@ -34,7 +34,7 @@ influential_diplomacy = {
 	diplomatic_reputation = 1
 }
 
-obedient_subjects = { 
+obedient_subjects = {
 	diplomatic_annexation_cost = -0.15
 }
 
@@ -57,7 +57,7 @@ east_india_trade_rush = {
 
 #Generic Administrative Mission Rewards:
 
-growing_economy = { 
+growing_economy = {
 	build_cost = -0.10
 	build_time = -0.25
 }
@@ -70,11 +70,11 @@ strong_treasury = {
 	inflation_reduction = 0.1
 }
 
-proto_industrialization = { 
+proto_industrialization = {
 	production_efficiency = 0.1
 }
 
-imperial_ambition = { 
+imperial_ambition = {
 	years_of_nationalism = -5
 }
 
@@ -339,8 +339,7 @@ buffer_zone_commerce = {
 }
 
 the_unknown_frontier = {
-	global_colonial_growth = 20
-	colonist_placement_chance = 0.05
+	colonist_placement_chance = 0.2
 }
 
 por_ivory_gains = {
@@ -559,7 +558,7 @@ edinburgh_london_modifier = {
 # Spanish Missions (CAS, SPA)
 
 spa_hispaniola_discovered = {
-	range = 0.25
+	global_colonial_growth = 15
 }
 
 spa_rb_morale = {
@@ -1427,7 +1426,7 @@ million_rice_fields = {
 	land_attrition = -0.2
 }
 
-chakravarti = {	
+chakravarti = {
 	global_autonomy = -0.03
 	legitimacy = 1
 }
@@ -1871,4 +1870,442 @@ renovated_jag_uni = {
 lit_conquered_rus = {
 	core_creation = -0.1
 	ae_impact = -0.1
+}
+
+# Moroccan missions
+
+mor_saharan_trade = {
+	caravan_power = 0.33
+}
+
+conquest_of_benin_mor = {
+	global_autonomy = -0.05
+}
+
+mor_privateering = {
+	capture_ship_chance = 0.25
+}
+
+mor_el_badi_palace = {
+	legitimacy = 1
+	devotion = 1
+	republican_tradition = 0.5
+}
+
+mor_black_guard = {
+	discipline = 0.025
+}
+
+mor_conquest_of_kanem = {
+	land_morale = 0.1
+	movement_speed = 0.1
+}
+
+mor_barbary_pirate_coast = {
+	privateer_efficiency = 0.2
+}
+
+mor_north_sea_corsairs = {
+	heavy_ship_power = 0.1
+}
+mor_andalucia = {
+	global_missionary_strength = 0.03
+	land_morale = 0.1
+}
+mor_tunis_conquest = {
+	galley_power = 0.2
+}
+mor_beyond_the_canaries = {
+	range = 0.25
+}
+mor_colonized_brazil = {
+	global_colonial_growth = 20
+}
+
+mor_new_world_power = {
+	global_tariffs = 0.05
+}
+
+# Golden Century Spanish modifiers
+
+spa_plus_ultra = {
+	range = 0.2
+}
+
+fortified_navarra = {
+	local_defensiveness = 0.2
+}
+
+viceroyalty_of_new_spain = {
+	global_tariffs = 0.15
+}
+
+spa_native_reductions = {
+	culture_conversion_cost = -0.33
+}
+
+spa_milan = {
+	diplomatic_reputation = 2
+}
+
+spa_new_granada = {
+	reduced_liberty_desire = 15
+}
+
+displaced_moriscos = {
+	development_cost = -0.1
+}
+
+spanish_imperial_ambition = {
+	improve_relation_modifier = 0.25
+	diplomatic_reputation = 1
+}
+
+fortified_florida_modifier = {
+	local_defensiveness = 0.25
+}
+
+spa_prepared_armada = {
+	naval_morale = 0.2
+}
+
+# Tunisian missions
+
+tun_berbers_pacified = {
+	global_unrest = -2
+}
+
+conquest_of_air = {
+	movement_speed = 0.1
+}
+
+tun_conquest_of_kanem = {
+	land_morale = 0.15
+}
+
+tun_med_conquest = {
+	galley_power = 0.2
+}
+
+tun_med_conquest_east = {
+	capture_ship_chance = 0.25
+}
+
+tun_barbary_pirates = {
+	privateer_efficiency = 0.2
+}
+
+tun_morocco = {
+	ship_durability = 0.1
+}
+
+tun_restoration_of_alexandra = {
+	province_trade_power_modifier = 0.2
+}
+
+# Aragonese Missions
+
+llotja_de_la_seda = {
+	trade_goods_size_modifier = 0.25
+}
+
+industria_sedera = {
+	production_efficiency = 0.2
+}
+
+ara_golden_age = {
+	all_power_cost = -0.01
+}
+
+barcelona_guilds = {
+	local_production_efficiency = 0.25
+}
+
+taula_de_canvi = {
+	interest = -0.5
+	inflation_reduction = 0.15
+}
+
+ara_toulon_dockyard = {
+	local_ship_cost = -0.1
+	local_ship_repair = 0.2
+}
+
+refoming_barbary_pirates = {
+	global_sailors_modifier = 0.1
+	global_missionary_strength = 0.02
+}
+
+ara_ship_trade_modifier = {
+	ship_power_propagation = 0.2
+}
+
+ara_envoy_to_ethiopia = {
+	diplomatic_reputation = 2
+}
+
+# Portuguese missions
+por_padroado = {
+	papal_influence = 2
+}
+
+por_minas_gerais = {
+	trade_goods_size = 2
+}
+
+por_wine_monopolies = {
+	trade_steering = 0.2
+}
+
+por_houses_of_trade = {
+	global_trade_power = 0.15
+}
+
+por_arts_and_letters = {
+	advisor_cost = -0.1
+	adm_tech_cost_modifier = -0.05
+}
+
+por_triangle_trade_modifier = {
+	trade_goods_size_modifier = 0.2
+}
+
+por_african_gold_modifier = {
+	trade_goods_size_modifier = 0.2
+}
+
+portuguese_carib_modifier = {
+	trade_efficiency = 0.1
+}
+
+persian_gulf_trade_por = {
+	province_trade_power_modifier = 0.1
+	local_defensiveness = 0.1
+}
+
+portuguese_malacca = {
+	province_trade_power_modifier = 0.1
+	local_defensiveness = 0.1
+}
+
+renovated_palace_of_alhambra = {
+	local_institution_spread = 0.5
+	local_unrest = -2
+}
+
+gra_bolstered_morale = {
+	land_morale = 0.05
+}
+
+portuguese_surat_modifier = {
+	trade_company_investment_cost = -0.2
+}
+
+# Berber missions
+
+berber_fleet = {
+	privateer_efficiency = 0.2
+}
+
+berber_piracy = {
+	galley_power = 0.2
+	light_ship_power = 0.2
+}
+
+berber_turkish_diplomacy = {
+	diplomatic_reputation = 1
+	ae_impact = -0.15
+}
+
+berber_new_world_pirates = {
+	trade_steering = 0.2
+	naval_attrition = -0.25
+}
+
+# Pirate missions
+
+pirate_trade_practices = {
+	light_ship_power = 0.2
+	global_ship_trade_power = 0.2
+}
+
+pirate_trade_ports = {
+	trade_efficiency = 0.1
+	trade_steering = 0.1
+}
+
+pirate_trade_in_gold = {
+	global_trade_power = 0.2
+}
+
+pirate_triangle_trade = {
+	production_efficiency = 0.1
+	global_sailors_modifier = 0.1
+	global_manpower_modifier = 0.1
+}
+
+pirate_a_pirate_fleet = {
+	privateer_efficiency = 0.3
+	naval_maintenance_modifier = -0.1
+}
+
+pirate_a_scourge_on_the_seven_seas = {
+	navy_tradition = 0.5
+	global_sailors_modifier = 0.1
+}
+
+pirate_the_pirate_code = {
+	discipline = 0.05
+}
+
+pirate_diplomacy = {
+	ae_impact = -0.1
+}
+
+pirate_the_pirate_threat = {
+	army_tradition = 0.5
+	global_manpower_modifier = 0.1
+}
+
+pirate_a_second_madagascar = {
+	global_tax_modifier = 0.1
+	build_cost = -0.1
+}
+
+pirate_all_of_the_gold = {
+	global_unrest = -2
+	inflation_reduction = 0.2
+}
+
+pirate_hoard = {
+	cavalry_cost = -0.2
+	prestige = 1
+	global_tax_modifier = 0.1
+}
+
+pirate_federation =  {
+	diplomatic_reputation = 1
+	land_forcelimit_modifier = 0.1
+	manpower_recovery_speed = 0.1
+}
+
+pirate_a_famous_pirate = {
+	global_tax_modifier = 0.1
+	land_morale = 0.1
+}
+
+# Navarra missions
+
+nav_reclaimed_coast = {
+	global_sailors_modifier = 0.2
+	global_ship_cost = -0.2
+}
+
+basque_fisheries_modifier = {
+	global_tax_modifier = 0.25
+}
+
+basque_exploration = {
+	range = 0.33
+}
+
+nav_newfoundland = {
+	global_trade_power = 0.1
+}
+
+conquest_of_espainiako = {
+	army_tradition = 0.5
+}
+
+#Andalusian Missions/Granadan Missions
+renovated_palace_of_alhambra = {
+	local_institution_spread = 0.5
+	local_unrest = -2
+}
+
+gra_bolstered_morale = {
+	land_morale = 0.05
+}
+
+gra_rebuilding_mosques = {
+	local_unrest = -2
+	local_missionary_strength = 0.03
+}
+
+gra_seperation_of_power = {
+	ae_impact = -0.15
+	improve_relation_modifier = 0.2
+}
+
+gra_mouth_of_mediterranean = {
+	province_trade_power_modifier = 0.25
+}
+
+gra_reconvert_giralda = {
+	cs_only_local_development_cost = -0.15
+	local_monthly_devastation = -0.1
+	local_unrest = -3
+}
+
+gra_merchants_inspired = {
+	global_ship_trade_power = 0.2
+	embargo_efficiency = 0.2
+}
+
+gra_eagerness_to_serve = {
+	manpower_recovery_speed = 0.2
+}
+
+adu_new_world_discoveries = {
+	global_colonial_growth = 25
+	range = 0.25
+}
+
+adu_trade_hub = {
+	trade_goods_size_modifier = 0.25
+	province_trade_power_modifier = 0.25
+}
+
+adu_native_concord = {
+	native_uprising_chance = -0.5
+}
+
+sicily_in_safe_hands = {
+	local_missionary_strength = 0.03
+	province_trade_power_modifier = 0.5
+}
+
+adu_popular_appeal = {
+	advisor_cost = -0.25
+	global_heretic_missionary_strength = 0.02
+}
+
+adu_conservative_backlash = {
+	tolerance_own = 2
+}
+
+adu_righteous_conquest = {
+	warscore_cost_vs_other_religion = -0.25
+}
+
+adu_white_phoenix = {
+	land_morale = 0.1
+}
+
+adu_summer_capital = {
+	local_monthly_devastation = -0.1
+	local_institution_spread = 1
+}
+
+adu_tolerance_heretics_mod = {
+	tolerance_heretic = 1
+	monthly_piety = -0.1
+}
+
+adu_greater_than_alexander = {
+	core_creation = -0.2
+}
+
+adu_trade_company_founded = {
+	global_sailors_modifier = 0.2
 }

@@ -1,6 +1,7 @@
 
 debug_institution = {
 	penalty = 0.5
+	trade_company_efficiency = 0.0
 	bonus = {
 		free_leader_pool = 1
 	}
